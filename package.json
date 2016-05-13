@@ -12,6 +12,7 @@
   "repository": "https://github.com/scottdj92/PouchTesting.git",
   "dependencies": {
     "add-cors-to-couchdb": "0.0.5",
+    "angular": "^1.5.5",
     "pouchdb": "^5.3.2"
   },
   "devDependencies": {
