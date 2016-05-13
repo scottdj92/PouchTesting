@@ -20,5 +20,5 @@ function MainController($scope) {
 
 	$scope.createTodo = function() {
 		this.database.create($scope)
-	}
+	};
 };
