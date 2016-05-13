@@ -16,4 +16,8 @@
 * There are many ways to install this depending on your application
 	* [View the docs here](https://pouchdb.com/guides/setup-pouchdb.html)
 
-5)
+## Accessing your database
+* You can access your database by editing the `REMOTE_DATABASE_URL` environment variable (in our case, it'll be after `localhost/`)
+
+## Working with Documents
+* [See the docs here](https://pouchdb.com/guides/documents.html)
