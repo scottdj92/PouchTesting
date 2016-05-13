@@ -5,7 +5,7 @@
   "main": "npm start",
   "scripts": {
     "start": "node ./lib/index.js",
-    "test": "NODE_ENV=test node ./lib/test.js"
+    "test": "NODE_ENV=test mocha"
   },
   "author": "Scott Jones",
   "license": "ISC",

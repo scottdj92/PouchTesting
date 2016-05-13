@@ -1,3 +1,5 @@
+'use strict';
+
 //import database
 var database = require('./db.js');
 var angular = require('angular');

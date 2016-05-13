@@ -1,3 +1,5 @@
+'use strict';
+
 var PouchDB = require('pouchdb');
 
 ////////////////
